@@ -6,7 +6,7 @@ bundle exec jekyll serve
 
 ## setup
 
-follow this to get jekyll but
+follow this to get jekyll but <https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll>
 
 ```sh
 # otherwise fails:
